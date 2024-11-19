@@ -1,0 +1,12 @@
+body{
+    color: rgb(255, 255, 255);
+    background: rgb(255, 111, 16);
+    margin: 0px;
+    font-family: "chakra petch", sans-serif;
+    margin-bottom: 100px;
+    text-rendering: auto;
+    text-align:unset;
+}
+h1{
+    text-align: center;
+}
